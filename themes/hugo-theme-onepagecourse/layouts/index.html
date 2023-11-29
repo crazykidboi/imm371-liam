@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<h1>IMM371</h1>
+<h3>Serious Play</h3>
+<p>
+Collection website for Immersive Media 371, F23. This website will contain up-to-date project and topic information, and any relevant files that can be made freely available online.
+</p>
+<p>Students will be given the opportunity to develop immersive experiences for high-end, experimental, and prototype equipment that is only available to students in this course and later studios. Students will learn how to work with complex immersive equipment systems and early access software in a collaborative studio environment.</p>
+<div class="wrapper">
+  <hr />
+<h3 class="ta-center">Course Details</h3>
+    <ul>
+        <li><strong>Meeting Times:</strong> Tuesdays 10am-12:30pm</li>
+        <li><a href={{ref . "assignments"}}> All Assignments</a></li>
+        <li><a href={{ref . "projects"}}> Student Projects</a></li>
+    </ul>
+
+    <hr />
+    <h3 class="ta-center">Topics</h3>
+{{ with .Site.GetPage "/topics" }}
+    {{ range (sort .Data.Pages ".Params.topic" "asc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="topic" id={{ .Title }}>
+            <h3>
+                <a href="#{{.Title}}">#</a> {{ .Params.topic }} - <strong>{{ .Title }}</strong>
+            </h3>
+            {{ .Content }}
+        </div>
+    <hr style="width:60%; margin: auto" />
+    {{ end }}
+{{ end }}
+</div>
+
+{{ end }}

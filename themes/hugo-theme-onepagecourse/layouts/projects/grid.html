@@ -1,0 +1,49 @@
+{{ define "main" }}
+  <main>
+
+ <h1>{{ .Title }}</h1>
+      {{ .Content }}
+          <div class="grid-container">
+          {{ range .Paginator.Pages }}
+              {{ $page := . }}
+              {{ $image := .Resources.GetMatch "preview*" }}
+              {{ $link := .RelPermalink }}
+              {{ with $image }}
+                {{ $image := $image.Fill "400x400 center" }}
+                  <div class="grid-item grid-item-image" style="background: center / contain no-repeat url({{  $image.RelPermalink }});">
+                  <a href="{{ $link }}" class="center-text">
+                     {{ $page.Title }}
+                    </a>
+                      </div>
+              {{ else }}
+               {{ $color := .Params.Color }}
+               {{ $textcolor := .Params.Textcolor }}
+
+              <div class="grid-item"
+              style="
+              {{ with $color }}
+                background-color: {{.}};
+              {{ end }}
+              "
+
+              >
+
+                  <a class="grid-item-noimage" href="{{ $link }}">
+
+                  {{ with $textcolor }}
+              <div class="grid-item-nohover fit-in-parent center-text" style="color: {{.}}">
+                 {{ $page.Title }}
+                </div>
+
+              {{ end }}
+                  <div class="grid-item-hover fit-in-parent center-text">{{ .Title }}</div>
+                </a>
+              </div>
+            {{ end }}
+
+
+            {{ end }}
+
+          </div>
+  </main>
+{{ end }}
