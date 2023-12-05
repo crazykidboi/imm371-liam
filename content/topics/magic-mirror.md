@@ -1,6 +1,6 @@
 ---
 title: Magic Mirror
-order: 2
+topic: 2
 ---
 
 For this project, students will make passive interactive visualizations that invite viewers to play.
