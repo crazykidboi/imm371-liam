@@ -1,6 +1,6 @@
 ---
 title: Prototype One
-order: 4
+order: 7
 ---
 
 Work in groups to create a prototype, a finished and playable experience.
