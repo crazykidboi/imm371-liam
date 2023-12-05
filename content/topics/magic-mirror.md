@@ -16,11 +16,14 @@ The 'mirror' will reinterpret and reflect some representation of the user back a
 Takes on Mirrors:
 - Portals (spacial adjustment)
 - Funhouse (body adjustment) - [Augmented Hand Series](http://flong.com/archive/projects/augmented-hand-series/index.html)
-- History (Temporal Adjustments). [Eyecode](http://flong.com/archive/projects/eyecode/index.html)
+- History (Temporal Adjustments). [Eyecode](http://flong.com/archive/projects/eyecode/index.html), [Reface](http://flong.com/archive/projects/reface/index.html)
 - Overlays (Juxtoposition a la fact filter), Distortion.
 - Interactivity (Play, not about a mirror) - [Footfalls](http://flong.com/archive/projects/footfalls/index.html)
 
 ### Magic Mirror Projects
+
+![Flip Disc](/magicmirror/flipdisc.jpeg)
+*[Flip Disc (Particle 45)](https://wndrmuseum.com/chicago/flip-disc-45/) - BREAKFAST NY*
 
 ### More Magic Mirror Projects
 - https://wndrmuseum.com/chicago/flip-disc-45/
