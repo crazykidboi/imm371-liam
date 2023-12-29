@@ -1,6 +1,8 @@
 ---
 title: Final Prototype
+short: Final
 topic: 12
+weeks: -1
 ---
 
 Work Days until final presentation day. 321's will be created on brightspace for each studio day.

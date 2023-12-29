@@ -1,7 +1,7 @@
 {{ define "main" }}
 
-<h1>IMM371</h1>
-<h3>Serious Play</h3>
+<h1>{{ .Site.Params.coursecode }}</h1>
+<h3>{{ .Site.Params.shorttitle }}</h3>
 <p>
 Collection website for Immersive Media 371, F23. This website will contain up-to-date project and topic information, and any relevant files that can be made freely available online.
 </p>
@@ -14,15 +14,42 @@ Collection website for Immersive Media 371, F23. This website will contain up-to
         <li><a href={{ref . "assignments"}}> All Assignments</a></li>
         <li><a href={{ref . "projects"}}> Student Projects</a></li>
     </ul>
-
     <hr />
     <h3 class="ta-center">Topics</h3>
+
+    {{ with .Site.GetPage "/topics" }}
+            <div class="crumbs">
+            <ul class="crumbs" role="list">
+
+    {{ range (sort .Data.Pages ".Params.topic" "asc" (where .Pages ".Params.private" "!=" true))}}
+                <li><a href="#{{.Title}}">{{ .Params.short }}</a></li>
+    {{ end }}
+        </ul>
+        </div>
+{{ end }}
+
+
+{{ $weekcount := 0 }}
 {{ with .Site.GetPage "/topics" }}
     {{ range (sort .Data.Pages ".Params.topic" "asc" (where .Pages ".Params.private" "!=" true))}}
         <div class="topic" id={{ .Title }}>
             <h3>
                 <a href="#{{.Title}}">#</a> {{ .Params.topic }} - <strong>{{ .Title }}</strong>
             </h3>
+        <p class="weeks">Weeks:
+        {{ if gt .Params.weeks 0 }}
+        {{ range $i, $e :=seq .Params.weeks }}
+            {{- $weekcount = add $weekcount 1 -}}
+        {{ if $i }}, {{ end}}
+        {{- $weekcount -}}
+        {{end}}
+        {{ else}}
+            {{- range $i, $e := seq (sub .Site.Params.weeks $weekcount) -}}
+                {{- $weekcount = add $weekcount 1 -}}
+                {{ if $i }}, {{ end }}{{- $weekcount -}}
+            {{end}}
+        {{end}}
+        </p>
             {{ .Content }}
         </div>
     <hr style="width:60%; margin: auto" />

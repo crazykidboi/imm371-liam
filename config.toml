@@ -2,3 +2,8 @@ baseURL = 'https://seriousplay.hdyar.com/'
 languageCode = 'en-us'
 title = 'Immersive Media 371'
 theme = "hugo-theme-onepagecourse"
+
+[params]
+weeks = 14
+coursecode = "IMM371"
+shorttitle= "Serious Play"

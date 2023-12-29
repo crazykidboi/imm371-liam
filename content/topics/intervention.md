@@ -1,5 +1,7 @@
 ---
 title: Environment Intervention
+short: Intervention
+weeks: 2
 draft: true
 ---
 

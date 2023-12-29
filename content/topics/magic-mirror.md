@@ -1,5 +1,7 @@
 ---
 title: Magic Mirror
+short: Magic Mirror
+weeks: 2
 topic: 2
 ---
 

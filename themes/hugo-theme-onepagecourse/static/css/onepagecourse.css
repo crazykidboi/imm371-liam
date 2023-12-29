@@ -99,3 +99,27 @@ html {
   background-color: rgba(0,0,0,0.75);
   color: white;
 }
+
+div.crumbs{
+  text-align: center;
+}
+
+ul.crumbs{
+  list-style: none;
+  display: inline-flex;
+  padding: 0;
+  margin: 0;
+}
+
+ul.crumbs li{
+  display: inline;
+  margin-left: 0.25em;
+}
+
+ul.crumbs li:not(:last-child)::after{
+  content: " > ";
+}
+
+.weeks{
+  font-style: italic;
+}
