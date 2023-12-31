@@ -4,7 +4,7 @@ short: Magic Mirror
 weeks: 3
 topic: 2
 ---
-For this project, students will make passive interactive visualizations that invite viewers to play.
+For this project, students will make passive, no-contact, interactive experiences that invite viewers to play in a space.
 
 The 'mirror' will reinterpret and reflect a representation of the user back at them. It will show them a version of themself.
 
