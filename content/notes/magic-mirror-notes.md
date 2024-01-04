@@ -6,7 +6,7 @@ order: 1
 
 1. What are magic mirrors? What can we do with reflection?
 2. A survey of Workflows:
-1. TouchDesigner
+1. [TouchDesigner](https://derivative.ca/)
 1. [Kinect](https://derivative.ca/UserGuide/Kinect_Azure_TOP)
 2. Projectors
 3. [Unity + Intel RealSense](https://dev.intelrealsense.com/docs/unity-wrapper)
