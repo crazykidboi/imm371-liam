@@ -1,11 +1,13 @@
 ---
-title: History and Approaches to Serious Play
-short: History
+title: Approaches to Serious Play
+short: User Research
 weeks: 1
 topic: 3
 
 ---
 
-This topic is continuing background research in a more rigourous academic context. Students will research specific directions in serious play, and complete a report.
+This topic is continuing background research in a more rigourous way. Students will conduct user research into a domain of serious play.
 
-- **Reading+Assignment: [Research Paper Report]({{< ref "../assignments/research-paper-report.md" >}})**
+- **In Class**: Approaches lecture, User Research Question Brainstorming
+- **Reading**: TBD
+- **Assignment**: [User Research Collection]({{< ref "../assignments/user-research-collection.md" >}})**

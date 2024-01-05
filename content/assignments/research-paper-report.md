@@ -1,7 +1,7 @@
 ---
 title: Research Paper Report
 order: 1
-draft: false
+draft: true
 ---
 
 Create a presentation that summarizes and editorializes a research pape from the field of Serious Play, and related concepts.

@@ -9,5 +9,6 @@ The magic mirror introduced us to a number of usable technology stacks, and got 
 The tabletop interaction is not about the technology stack. This is provided for you (top-down projector). This prototype is about developing a comprehensive way to think about augmenting interactions, and a way to design user experiences for serious play.
 
 - **Readings**: TBD
-- **Assignment 1: [Tabletop Experience pt 1. User Relationships Exercise]({{< ref "assignments/tabletop-experience.md" >}})**
-- **Assignment 2: [Tabletop Experience pt 2. Prototype]({{< ref "assignments/tabletop-experience.md" >}})**
+- **In Class**: Project Intoduction and Technology Exploration. Brownboxing playtesting exercise.
+- **Assignment 1**: [Tabletop Experience pt 1. User Relationships Exercise]({{< ref "assignments/tabletop-experience.md" >}})
+- **Assignment 2**: [Tabletop Experience pt 2. Prototype]({{< ref "assignments/tabletop-experience.md" >}})
