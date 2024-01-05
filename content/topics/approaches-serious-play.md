@@ -9,5 +9,5 @@ topic: 3
 This topic is continuing background research in a more rigourous way. Students will conduct user research into a domain of serious play.
 
 - **In Class**: Approaches lecture, User Research Question Brainstorming
-- **Reading**: TBD
+- **Reading**: TBD from Design Research Methods
 - **Assignment**: [User Research Collection]({{< ref "../assignments/user-research-collection.md" >}})**
