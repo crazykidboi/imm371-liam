@@ -12,9 +12,12 @@ title: Select Educational Games
 - [What's your gender?](https://purplesloth.itch.io/whats-your-gender) - Purplesloth
 - [Monkeytype](https://monkeytype.com/) - Monkeytype
 
-
 ### Other
 Personal picks that don't meet the constraints.
-- [The Devil's Calculator](https://cinqmarsmedia.itch.io/devilscalc) - 
+- [The Devil's Calculator](https://cinqmarsmedia.itch.io/devilscalc) - Cinqmar Media
 - [Go Morse Go](https://kyatt7.itch.io/go-morse-go-arcade-edition) - Imposter Cat Games
 - [Rules and Roberts](https://molleindustria.itch.io/rules-and-roberts) - Molleindustria
+- [Venti Mesi](https://wearemuesli.itch.io/ventimesi) - We Are Muesli
+- [We All End Up Alone](http://weallendupalone.com/) - Nice Penguins
+- [SURREALISTa](https://gigoiastudios.itch.io/surrealista) - Giogoia Studios
+- [Casual Games for Protesters](http://www.protestgames.org/) - Molleindustria and Harry Josephine Giles
