@@ -12,4 +12,5 @@ This topic is continuing background research in a more rigourous way. Students w
 - **Reading**: TBD from Design Research Methods
 - **Reading**: [Designing For Difficult Subjects](https://gdt.stanford.edu/designing-for-difficult-subjects/)
 - **Reading**: [What is the Magic Circle?](https://gdt.stanford.edu/what-is-the-magic-circle/)
+- **Reading**: [Towards a Pedagogy of Play](https://pz.harvard.edu/resources/toward-a-pedagogy-of-play)
 - **Assignment**: [User Research Collection]({{< ref "../assignments/user-research-collection.md" >}})

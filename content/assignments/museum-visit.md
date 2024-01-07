@@ -15,8 +15,14 @@ This must be a trip done after the first day of class.
 
 1-2 pages and include at least 3-4 pictures of your trip & subject
 
-### A Few Museums
+#### Museums
 - [One of the Carnegie Museums](https://carnegiemuseums.org/)
 - [Pittsburgh Childrens Museum](https://pittsburghkids.org/)
 - [The Mattress Factory](https://mattress.org/)
 - [Heinz History Center](https://www.heinzhistorycenter.org/)
+
+#### Also Permitted
+- Rivers Casino
+- [Pinball PA](https://www.pinballpa.com/)
+- [Pinball Perfection](http://www.pinballperfection.com/)
+- [Moonshot Museum](https://moonshotmuseum.org/the-museum/)
