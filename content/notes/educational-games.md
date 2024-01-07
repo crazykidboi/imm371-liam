@@ -11,6 +11,8 @@ title: Select Educational Games
 - [Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) - GMTK
 - [What's your gender?](https://purplesloth.itch.io/whats-your-gender) - Purplesloth
 - [Monkeytype](https://monkeytype.com/) - Monkeytype
+- [The Barnacle GOose Experiment](https://everest-pipkin.com/#games/barnaclegoose.html) - Everest Pipkin
+
 
 ### Other
 Personal picks that don't meet the constraints.
