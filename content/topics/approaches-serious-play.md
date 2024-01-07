@@ -10,4 +10,6 @@ This topic is continuing background research in a more rigourous way. Students w
 
 - **In Class**: Approaches lecture, User Research Question Brainstorming
 - **Reading**: TBD from Design Research Methods
-- **Assignment**: [User Research Collection]({{< ref "../assignments/user-research-collection.md" >}})**
+- **Reading**: [Designing For Difficult Subjects](https://gdt.stanford.edu/designing-for-difficult-subjects/)
+- **Reading**: [What is the Magic Circle?](https://gdt.stanford.edu/what-is-the-magic-circle/)
+- **Assignment**: [User Research Collection]({{< ref "../assignments/user-research-collection.md" >}})
