@@ -47,9 +47,12 @@ So let's all interrogate these projects together. Don't just try to surprise me,
 
 - Projection
 - Projection onto the user
+- Face Filter
 - Televisions, Screens
 - Phones
 - Printers
+- Looking Glass (Holographic Display)
+- Text
 
 ### Magic Mirror Projects
 
