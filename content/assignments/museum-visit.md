@@ -20,6 +20,7 @@ This must be a trip done after the first day of class.
 - [Pittsburgh Childrens Museum](https://pittsburghkids.org/)
 - [The Mattress Factory](https://mattress.org/)
 - [Heinz History Center](https://www.heinzhistorycenter.org/)
+- [Soldiers and Sailors Hall](https://www.soldiersandsailorshall.org/)
 
 #### Also Permitted
 - Rivers Casino
