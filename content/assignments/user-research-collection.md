@@ -1,6 +1,6 @@
 ---
 title: User Research and Reporting
-order: 3
+order: 5
 ---
 
 In class, we will brainstorm and assess research questions about play, games, and ways in which people like to learn.

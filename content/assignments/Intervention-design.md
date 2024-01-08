@@ -1,5 +1,6 @@
 ---
 title: Environment Intervention Design Document
+order: 7
 ---
 Create a two-page document that designs an installation. The space you choose must be a real space on campus, but the design need not be technicall (logistically, financially, beuarocratically) pheasable. You are conducting interviews and creating a design document.
 

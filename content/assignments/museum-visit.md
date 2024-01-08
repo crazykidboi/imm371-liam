@@ -1,11 +1,11 @@
 ---
-title: Museum Visit
-order: 4
+title: Museum Visit & Reflection
+order: 3
 ---
 
 Visit a museum and write a reflection.
 
-Visit one of the many museums in Pittsburgh and reflect on the experience in the way you have with the play responses above.
+Visit one of the many museums in Pittsburgh and reflect on the experience in the way you have with the play responses.
 
 Spend half of your reflection on the overall experience and the other half on a single experience, exhibit, or moment from your visit.
 

@@ -2,7 +2,7 @@
 title: Environment Intervention Design
 short: Intervention
 weeks: 1
-topic: 10
+topic: 5
 ---
 
 Design an installation that supports, enforces, facilitates, and allows play in a user-chosen activity, while still facilitating the environments' other (original) objectives.

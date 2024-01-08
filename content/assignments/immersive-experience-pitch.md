@@ -1,10 +1,9 @@
 ---
-title: Immersive Experience Pitch + Presentation
-order: 5
+title: Museum Experience Pitch + Presentation
+order: 4
 ---
 
 Create a sketch, and rough design document for an immersive or interactive experience.
-
 
 ## Requirements
 - This experience is for the Museum you visited.

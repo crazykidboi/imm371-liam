@@ -1,5 +1,6 @@
 ---
 title: Magic Mirror Assignment
+order: 5
 ---
 
 Create a interactive 'magic mirror' (See [Notes on Magic Mirrors]({{< ref "../notes/magic-mirror-notes.md" >}})).

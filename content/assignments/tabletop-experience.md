@@ -1,5 +1,6 @@
 ---
 title: Tabletop Experience
+order: 6
 ---
 
 Create an experience that uses a digital layer to invite, enhance, or augment play into a physical activity while sitting at a table.
