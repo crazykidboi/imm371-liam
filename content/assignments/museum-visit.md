@@ -15,12 +15,15 @@ This must be a trip done after the first day of class.
 
 1-2 pages and include at least 3-4 pictures of your trip & subject
 
+*Not an Exclusive List*
+
 #### Museums
 - [One of the Carnegie Museums](https://carnegiemuseums.org/)
 - [Pittsburgh Childrens Museum](https://pittsburghkids.org/)
 - [The Mattress Factory](https://mattress.org/)
 - [Heinz History Center](https://www.heinzhistorycenter.org/)
 - [Soldiers and Sailors Hall](https://www.soldiersandsailorshall.org/)
+- [Carnegie Science Center](https://carnegiesciencecenter.org/)
 
 #### Also Permitted
 - Rivers Casino
