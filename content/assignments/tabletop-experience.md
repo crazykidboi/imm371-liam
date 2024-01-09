@@ -73,7 +73,7 @@ Because of this, any attempts to influence or interfere with the guests can affe
 - Did they "get it"? Was there any prompting neccesary?
 - Did it work? Any bugs, quirks, or interuptions?
 
-## Ohter Considerations for Evaluation
+## Other Considerations for Evaluation
 - Polish, Aesthetic
 - Consistency
 - Accessibility
