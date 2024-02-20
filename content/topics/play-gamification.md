@@ -24,7 +24,7 @@ In reflecting on their visit site, student’s will use all of their reflective 
 - **Assignment**: [Museum Visit + Reflection]({{< ref "assignments/museum-visit.md">}})
 - **Reading**: Gamification and Govermentality - Niklas Shrape
 - **Assignment**: Reading Discussion Post
-- **Reading**: Chapter 1+ 3: Game, Gamification, or Simulation: Which Is Best, When, Why? From The Gamification of Learning and Instruction Fieldbook by Karl M. Kapp, Lucas Blair, and Rich Mesch (Brightspace)
+- **Reading**: Chapter 3: Game, Gamification, or Simulation: Which Is Best, When, Why? From The Gamification of Learning and Instruction Fieldbook by Karl M. Kapp, Lucas Blair, and Rich Mesch (Brightspace)
 
 ###### Day Three
 - **In Class**: Reading Discussions. Interactive Technologies Survey.
