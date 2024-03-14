@@ -25,7 +25,7 @@ Draw a triangle with the three points labeled "User", "Activity", and "Augmentat
 
 Consider User and Origami: A user -> Origami is following instructions, folding paper, comparing paper to diagram. Origami -> User is demonstrating processes throug diagrams, informing of future, indicating progress, validating correctness, providing confidence.
 What can the digital augmentation layer provide?
-- Can it affect relationships from the user to the activity? - at-size instructions that can hold the paper up to? 
+- Can it affect relationships from the user to the activity? - at-size instructions that can hold the paper up to?
 - Can it affect relationships from the activity to the user? - Video snippets they can reference for each step?
 - What new relationships with the activity are formed?
 - What new relationships with the user are formed?
@@ -50,7 +50,7 @@ In addition to the assignment fulfilling the objectives: executing on the descri
 - You are not allowed to explain your project to the guest. They must discover it.
 - Optionally, in addition to the appropriate materials of the assignment, you are allowed a single placard with no more than 45 words on it. The placard must fit on an 5"x8" area. Designs will be printed, cut, and glued to cards of this size.
 - You must include a title and your name(s) in the projects' presentations.
-- A playtime outside of a 45-second 
+- A playtime outside of a 45-second, and less than 3 minutes.
 
 The goal of these constrants is to force your user to discover how the system works through play, curiosity, and interaction. You will be evaluated on your ability to achieve this.
 
