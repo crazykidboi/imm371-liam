@@ -22,6 +22,7 @@ Normally our documents are either pitch documents (outside audiences) or interna
 - Reasonable formatting
 - Clear and concise writing. Objective sections are free from opinions, posturing, and hypothetical
 - Uploaded to brightspace and a printed copy (single sided) brought into class.
+- Be prepared to hand in interview notes. I reserve the right to ask to see interview notes. This could be for academic integrity purposes, for clarification on a point while evaluating, for archiving, or even just for my own curiosity.
 
 ##### Written objetives:
 - (Core) The [Problem Definition]({{< ref "../notes/problem-definition.md" >}}).
