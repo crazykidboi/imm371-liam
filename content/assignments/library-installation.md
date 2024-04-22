@@ -13,7 +13,7 @@ Work in groups to create an interactive experience in the library.
 ## Deliverables
 - readme.txt, project archival artifacts (build, documentation, etc)
 - Problem Definition
-- Poster Document(s)
+- [Poster Document]({{< ref "assignments/final-project-poster.md" >}})
 
 ### IMM Poster Participation
 In addition to your project install, you will submit a materials for a poster
